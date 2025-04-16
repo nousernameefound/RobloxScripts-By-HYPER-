@@ -1,3 +1,6 @@
+--Westbound Auto Farm
+--Made By @Hyper.dev,@unkown.dev
+
 game.StarterGui:SetCore("SendNotification", {
     Title = "Auto Farm | Made By Hyper © ";
     Text = "Auto Farm executed";
